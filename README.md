@@ -1,5 +1,4 @@
-### Olá! Eu sou o Lucas Faleiros
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-faleiros-moreira-423421247/)
+### Olá mundo! Me chamo Lucas Faleiros
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFaleirosMoreira&layout=donut&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
