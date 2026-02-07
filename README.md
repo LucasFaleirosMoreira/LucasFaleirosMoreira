@@ -1,7 +1,5 @@
 ### Olá mundo! Me chamo Lucas Faleiros
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFaleirosMoreira&layout=donut&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Tecnologias que eu uso no meu dia
 
